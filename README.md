@@ -17,3 +17,5 @@ uvicorn main:app --reload
 
 ### Frontend
 npm run dev
+
+https://team-task-manager-iota-five.vercel.app/ - live link
